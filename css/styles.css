@@ -805,7 +805,7 @@ header {
     outline: transparent;
 }
 
-.submit-btn {
+.subscribe-btn {
     display: flex;
     justify-content: center;
     padding: 8px 24px;
@@ -830,11 +830,11 @@ header {
     fill: var(--light-color);
 }
 
-.submit-btn:hover,
-.submit-btn:focus {
+.subscribe-btn:hover,
+.subscribe-btn:focus {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
-.submit-btn:active {
+.subscribe-btn:active {
     background-color: var(--customer-hover-color);
 }
